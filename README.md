@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Hugo's github stats](https://github-readme-stats.vercel.app/api?username=cythb&count_private=true&show_icons=true&theme=tokyonight)
+![Hugo's github stats](https://github-readme-stats.vercel.app/api?username=cythb&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
 <!--
 **cythb/cythb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
