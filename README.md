@@ -1,14 +1,14 @@
 ### Hi there 👋
-![Stats](https://github-readme-stats.vercel.app/api?username=cythb&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![Stats]()
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cythb&layout=compact)
+![Top Langs]()
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/cythb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cythb&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/cythb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cythb&layout=compact" />
 </a>
 <!--
 **cythb/cythb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
