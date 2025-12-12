@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<a href="https://github.com/cythb">
+<span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cythb&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
-</a>
-<a href="https://github.com/cythb">
+</span>
+<span>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cythb&layout=compact" />
-</a>
+</span>
 
 
 - 🔭 I’m currently working on reset-myself and ABPlayer
