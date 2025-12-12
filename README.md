@@ -12,5 +12,5 @@
 
 - 🔭 I’m currently working on reset-myself and ABPlayer
 - 🌱 I’m currently learning English
-- 💬 Ask me about backend and iOS
+- 💬 Ask me about anything
 - 📫 How to reach me: [@ihugo_dev](https://t.me/ihugo_dev)
