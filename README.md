@@ -8,6 +8,8 @@
 </span>
 
 
+---
+
 - 🔭 I’m currently working on reset-myself and ABPlayer
 - 🌱 I’m currently learning English
 - 💬 Ask me about backend and iOS
