@@ -1,7 +1,15 @@
 ### Hi there 👋
-![Hugo's github stats](https://github-readme-stats.vercel.app/api?username=cythb&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=cythb&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cythb&layout=compact)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 <!--
 **cythb/cythb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
