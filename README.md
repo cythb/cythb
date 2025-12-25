@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<span>
+<!-- <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cythb&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
 </span>
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cythb&layout=compact" />
-</span>
-
+</span> -->
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/cythb?cardType=level-alternate&theme=dracula&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 
