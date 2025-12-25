@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on reset-myself and ABPlayer<br>🌱 I’m currently learning English<br>💬 Ask me about anything<br>📫 How to reach me: @ihugo_dev
+🔭 I’m currently working on reset-myself and ABPlayer<br>🌱 I’m currently learning English<br>💬 Ask me about anything<br>📫 How to reach me: [@ihugo_dev](https://t.me/ihugo_dev)
 
 
 # 💻 Tech Stack:
